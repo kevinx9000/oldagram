@@ -1,7 +1,7 @@
 ## Oldagram
 
-Solo Project - from Scrimba Frontend Developer Career Path - Module 4
-HTML and CSS only; no Javascript; may further develop later with JS as stretch goal
+- Solo Project - from Scrimba Frontend Developer Career Path - Module 4
+- HTML and CSS only; no Javascript; may further develop later with JS as stretch goal
 
 ## About Scrimba
 
